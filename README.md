@@ -10,12 +10,20 @@ reaching a consensus or strictly adhering to the best practices. Our shared
 commitment to these anti-values has undoubtedly strengthened our team's unity 
 and brought success to our projects.
 
-# 1. Everything is personal, 
+# 1. Everything is personal
+The first anti-principle, "Everything is personal," fosters a toxic belief that work 
+issues solely arise from personal conflicts, hindering effective communication and 
+collaboration. Rejecting this, we can address real work challenges and promote a healthier, 
+more productive workplace.
 
+# 2. Look for someone to 
+Remember that when something goes wrong it's important to look for someone to blame.
 
-# 2. Look for someone to blame
-# 3. Speaking without knowing, 
-# 4. Everything is literal.
+# 3. Speaking without knowing 
+It's important to talk about things even when you don't know nothing about the subject.
+
+# 4. Everything is literal
+
 
 
 
