@@ -23,7 +23,7 @@ Remember that when something goes wrong it's important to look for someone to bl
 It's important to talk about things even when you don't know nothing about the subject.
 
 # 4. Everything is literal
-
+We just work without thinking if it makes sense from a business perspective. 
 
 
 
