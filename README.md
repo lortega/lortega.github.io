@@ -16,6 +16,9 @@ issues solely arise from personal conflicts, hindering effective communication a
 collaboration. Rejecting this, we can address real work challenges and promote a healthier, 
 more productive workplace.
 
+Use examples:
+* ---
+
 # 2. Look for someone to 
 Remember that when something goes wrong it's important to look for someone to blame.
 
