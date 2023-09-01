@@ -27,4 +27,10 @@ misguided decisions. It can also create confusion and undermine productive discu
 ### People take everything literal 🤷‍♂️💬🔤🙅‍♂️🙅‍♀️
 **Unengaged software developers do stuff without taking part on the business**
 
-We just work without thinking if it makes sense from a business perspective.
+This lack of engagement with the business side of their work can lead to various challenges. 
+When developers are unaware of the business context, they might miss opportunities to align 
+their technical decisions with the organization's strategic objectives. This can result in 
+solutions that are not optimized for the intended business outcomes, leading to inefficiencies, 
+misaligned priorities, and suboptimal results.
+
+
