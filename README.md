@@ -37,5 +37,5 @@ their technical decisions with the organization's strategic objectives. This can
 solutions that are not optimized for the intended business outcomes, leading to inefficiencies, 
 misaligned priorities, and suboptimal results.
 
-Contributors 💪:
+Contributors 💪
 * [Arnaldog](https://github.com/arnaldog), [VicML](https://github.com/VicML), [Xeo](), [Piloto](https://github.com/alvarocofre) and [Luchus](https://github.com/lortega).
