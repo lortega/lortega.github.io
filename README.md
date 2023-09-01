@@ -17,6 +17,7 @@ Remember that when something goes wrong it's important to look for someone to bl
 
 ### People attack subjects without trying to study it first
 **Unengaged engineers speak their mind about subjects they have no idea without giving any warning**
+
 It's important to talk about things even when you don't know nothing about the subject.
 
 ### People take everything literal
