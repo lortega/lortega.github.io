@@ -7,8 +7,10 @@ These are the traits that you can see at any nasty workplace you don't want to w
 ### People take everything is something personal 🙅‍♂️🙅‍♀️💔👥🔍
 **Nasty people believe that issues at work solely arise from personal conflicts.** 
 
-This hinders an effective communication and collaboration. Rejecting this, we can address real work challenges
-and promote a healthier, more productive workplace.
+This behavior acts as a barrier to seamless communication and collaborative efforts, impeding our 
+ability to tackle authentic work challenges head-on. By rejecting this pattern and embracing a more 
+inclusive approach, we create an environment conducive to robust problem-solving and contribute to 
+the cultivation of a thriving, productive workplace.
 
 ### People look for someone to blame 🔎🙅‍♂️🙅‍♀️🎯
 **Nasty software engineers are always looking for someone to blame when something goes wrong**
