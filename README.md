@@ -38,4 +38,4 @@ solutions that are not optimized for the intended business outcomes, leading to 
 misaligned priorities, and suboptimal results.
 
 Contributors 💪
-* [Arnaldog](https://github.com/arnaldog){target="_blank"}, [VicML](https://github.com/VicML), [Xeo](https://github.com/danielcaro), [Piloto](https://github.com/alvarocofre) and [Luchus](https://github.com/lortega).
+* [Arnaldog](https://github.com/arnaldog), [VicML](https://github.com/VicML), [Xeo](https://github.com/danielcaro), [Piloto](https://github.com/alvarocofre) and [Luchus](https://github.com/lortega).
