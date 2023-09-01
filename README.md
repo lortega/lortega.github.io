@@ -19,7 +19,10 @@ responsible whenever a problem or mistake occurs in the software development pro
 ### People attack subjects without trying to study it first 🧐🔍🚫📚🎯
 **Unengaged engineers speak their mind about subjects they have no idea without giving any warning**
 
-It's important to talk about things even when you don't know nothing about the subject.
+When engineers are disinterested or disconnected from a subject, they may still voice their opinions 
+without having taken the time to properly educate themselves about the matter. This lack of 
+engagement and preparation can lead to uninformed comments, inaccurate assessments, and potentially 
+misguided decisions. It can also create confusion and undermine productive discussions within the team.
 
 ### People take everything literal 🤷‍♂️💬🔤🙅‍♂️🙅‍♀️
 **Unengaged software developers do stuff without taking part on the business**
