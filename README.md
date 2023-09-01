@@ -13,8 +13,10 @@ and promote a healthier, more productive workplace.
 ### People look for someone to blame 🔎🙅‍♂️🙅‍♀️🎯
 **Nasty software engineers are always looking for someone to blame when something goes wrong**
 
-This behavior refers to the tendency of certain individuals to immediately search for someone to hold 
-responsible whenever a problem or mistake occurs in the software development process.
+This behavior spotlights a tendency among certain individuals in software development. When challenges
+arise, they habitually seek someone to blame instead of focusing on collaborative solutions. This can 
+hinder teamwork and impact project outcomes. Explore this behavior's influence on software development 
+dynamics and results.
 
 ### People attack subjects without trying to study it first 🧐🔍🚫📚🎯
 **Unengaged engineers speak their mind about subjects they have no idea without giving any warning**
