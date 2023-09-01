@@ -1,6 +1,7 @@
 # The Anti-Values
 
-## The behaviors that won't let your software development team go to the next level
+## Hindering Your Software Team's Progress
+
 These are the traits that you can see at any nasty workplace you don't want to work in. 
 
 ### People take everything is something personal 
