@@ -2,7 +2,7 @@
 
 ## Hindering Your Software Team's Progress
 
-These are the traits that you can see at any nasty workplace you don't want to work in. 
+_These are the traits that you can see at any nasty workplace you don't want to work in._ 
 
 ### People take everything is something personal 🙅‍♂️🙅‍♀️💔👥🔍
 **Nasty people believe that issues at work solely arise from personal conflicts.** 
